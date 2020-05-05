@@ -3,4 +3,4 @@ A 2-layer Bidirectional LSTM based model to classify a Quora question as insince
 
 The data and embeddings file can be found on the Kaggle challenge Data Page here: [QIQC Kaggle](https://www.kaggle.com/c/quora-insincere-questions-classification/data/).
 
-The complete details for the data, our approach along with the results can be found in the Presentation here and in the Project Report here.
+The complete details for the dataset used, the approach along with the results can be found in the [Presentation](ECE542_Final_Project_Presentation.pdf) and the [Project Report](ECE542_Final_Project_Report.pdf) in the repository.
